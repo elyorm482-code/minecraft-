@@ -1,0 +1,6 @@
+{
+  "name": "BlockWorld 3D",
+  "description": "To'liq 3D vokselli sandbox o'yini - bloklarni buzish, qurish, kashf qilish va tirik qolish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
